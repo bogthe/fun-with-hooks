@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/fun-with-hooks/static/js/runtime~main.6ff143c1.js"
   },
   {
-    "revision": "250410b7ed561a6bbefc",
+    "revision": "f766fb634957cc479a93",
     "url": "/fun-with-hooks/static/js/main.b130284e.chunk.js"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "/fun-with-hooks/static/js/2.f09c5d3d.chunk.js"
   },
   {
-    "revision": "250410b7ed561a6bbefc",
-    "url": "/fun-with-hooks/static/css/main.63f25f35.chunk.css"
+    "revision": "f766fb634957cc479a93",
+    "url": "/fun-with-hooks/static/css/main.0e27d9f4.chunk.css"
   },
   {
-    "revision": "e30b8fbe2eb3c5b9309adcd2ce25d7d7",
+    "revision": "c24dc26e14a8e2c1b64362bfac3d89c9",
     "url": "/fun-with-hooks/index.html"
   }
 ];
