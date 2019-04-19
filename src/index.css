@@ -49,6 +49,7 @@ pre {
     width: 100vw;
     background-color: white;
     padding: 10px 0;
+    font-size: 4rem;
 }
 
 .wrapper {
@@ -71,4 +72,10 @@ pre {
     background-color: #f5f2f0;
     border-radius: 3px;
     padding: 1rem;
+}
+
+@media (max-width: 700px) {
+    .title {
+        font-size: 2rem;
+    }
 }
